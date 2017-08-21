@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be63ada-2648-4890-8668-063a2d1fbcc3" name="Default" comment="" />
+    <list default="true" id="9be63ada-2648-4890-8668-063a2d1fbcc3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CandyAI/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../CandyAI/out/" />
     <ignored path="$PROJECT_DIR$/../CandyAI/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloOpenCV.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloOpenCV.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/HelloOpenCV.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -53,7 +55,132 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encodings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1503291054987" expanded="true" signature="55515:55532" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55515:55550" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55515:55563" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55515:55578" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55613:58676" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55626:58661" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55680:55975" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55699:55960" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55762:55940" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55802:55906" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="55823:55884" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56008:56273" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56027:56258" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56060:56238" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56100:56204" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56121:56182" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56323:56650" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56342:56635" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56437:56615" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56477:56581" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56498:56559" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56701:56966" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56720:56951" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56753:56931" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56793:56897" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="56814:56875" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57009:57315" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57028:57300" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57102:57280" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57142:57246" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57163:57224" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57366:57676" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57385:57661" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57463:57641" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57503:57607" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57524:57585" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57711:58017" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57730:58002" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57804:57982" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57844:57948" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="57865:57926" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58069:58334" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58088:58319" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58121:58299" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58161:58265" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58182:58243" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58382:58647" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58401:58632" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58434:58612" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58474:58578" ph="..." />
+                <marker date="1503291054987" expanded="true" signature="58495:58556" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CandyAI.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CandyAI/CandyAI.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CandyAI" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -66,6 +193,7 @@
         <option value="$PROJECT_DIR$/../CandyAI/pom.xml" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/exceptions/ImageLimitationError.java" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/processing/HelloOpenCV.java" />
+        <option value="$PROJECT_DIR$/../CandyAI/.gitignore" />
       </list>
     </option>
   </component>
@@ -87,6 +215,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ColorIdeProjectViewPane" proportions="" version="1">
@@ -166,6 +297,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CandyAI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CandyAI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,16 +777,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503290316976</updated>
-      <workItem from="1503290321548" duration="428000" />
+      <workItem from="1503290321548" duration="745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="428000" />
+    <option name="totallyTimeSpent" value="745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -661,9 +805,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -690,14 +834,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/exceptions/ImageLimitationError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -714,6 +850,122 @@
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#HelloOpenCV#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503291054987" expanded="true" signature="55515:55532" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55515:55550" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55515:55563" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55515:55578" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55613:58676" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55626:58661" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55680:55975" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55699:55960" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55762:55940" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55802:55906" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="55823:55884" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56008:56273" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56027:56258" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56060:56238" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56100:56204" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56121:56182" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56323:56650" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56342:56635" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56437:56615" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56477:56581" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56498:56559" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56701:56966" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56720:56951" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56753:56931" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56793:56897" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="56814:56875" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57009:57315" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57028:57300" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57102:57280" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57142:57246" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57163:57224" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57366:57676" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57385:57661" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57463:57641" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57503:57607" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57524:57585" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57711:58017" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57730:58002" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57804:57982" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57844:57948" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="57865:57926" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58069:58334" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58088:58319" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58121:58299" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58161:58265" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58182:58243" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58382:58647" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58401:58632" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58434:58612" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58474:58578" ph="..." />
+            <marker date="1503291054987" expanded="true" signature="58495:58556" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/CandyAI.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
