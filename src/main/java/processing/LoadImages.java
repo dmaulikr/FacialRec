@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Random;
 
@@ -43,11 +42,11 @@ public class LoadImages
 	}
 	
 	/**
-	 * The class that loads the image file.
+	 * The class that loads the image file. It returns the file name of a random image, just use the file returned by this method to load the image.
 	 * @throws URISyntaxException   In case of wrong uri
 	 * @throws IOException  IOException in case of an error duh
 	 */
-	private static void imageLoader() throws URISyntaxException, IOException
+	private static File imageLoader() throws URISyntaxException, IOException
 	{
 //		Gives the static resource.
 		ClassLoader classloader = Thread.currentThread().getContextClassLoader();
@@ -62,19 +61,8 @@ public class LoadImages
 		int randomInt = rand.nextInt(amountOfFiles);
 		
 		String imageName = String.valueOf(Paths.get(fileURL.toURI()))+"s"+randomInt+".jpg";
-		File image = new File(imageName);
-	}
-	
-	
-	public static void main(String[] args)
-	{
-		try
-		{
-			imageLoader();
-		} catch( URISyntaxException | IOException e )
-		{
-			e.printStackTrace();
-		}
+		
+		return new File(imageName);
 	}
 	
 }

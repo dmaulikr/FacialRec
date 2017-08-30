@@ -1,2 +1,5 @@
 target/
 src/main/resources/image/
+src/main/resources/fxml/
+src/main/java/gui/
+lfw.tgz
