@@ -25,14 +25,14 @@ public class fixDatabaseImages
 	 * This is the only time I will use a hardcoded file. Copy your directory containing images here (subdirectories do
 	 * not matter) in here.
 	 */
-	private static File sourceFile = new File("W:\\CandyAI\\src\\main\\resources\\images\\");
+	private static File sourceFile = new File("C:\\Apps\\CandyAI\\src\\main\\resources\\images\\");
 	
 	/**
 	 * Ok, sorry I lied. This is the the only other time I will use a hardcoded directory. Put the directory you want
 	 * your images. Remember the directory of storing images. I will be using image under my resource folder
 	 */
-	private static File destFile = new File("W:\\CandyAI\\src\\main\\resources\\image\\s");
-	
+	private static File destFile = new File("C:\\Apps\\CandyAI\\src\\main\\resources\\image\\s");
+
 	/**
 	 * Don't worry about this, just a counter variable.
 	 */
@@ -44,6 +44,7 @@ public class fixDatabaseImages
 	 *
 	 * @param args Default arg
 	 */
+
 	public static void main(String[] args)
 	{
 		try

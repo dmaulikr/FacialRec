@@ -5,15 +5,6 @@ import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.core.Scalar;
 
-/**
- * Class Details:-
- * Author: Sarhad
- * User: sarha
- * Date: 10-Jul-17
- * Time : 3:28 PM
- * Project Name: CandyAI
- * Class Name: HelloOpenCV
- */
 public class HelloOpenCV
 {
 	

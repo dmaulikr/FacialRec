@@ -46,13 +46,13 @@ public class LoadImages
 	 * @throws URISyntaxException   In case of wrong uri
 	 * @throws IOException  IOException in case of an error duh
 	 */
-	private static File imageLoader() throws URISyntaxException, IOException
+	public static File imageLoader() throws URISyntaxException, IOException
 	{
 //		Gives the static resource.
 		ClassLoader classloader = Thread.currentThread().getContextClassLoader();
 		URL fileURL = classloader.getResource("image/");
 		File file = Paths.get(fileURL.toURI()).toFile();
-		
+		System.out.println(file.getPath());
 //		Creates a random generator to randomly select a file
 		Random rand = new Random();
 //		Counts amounts of file in directories (In my case its 1054)
@@ -60,7 +60,7 @@ public class LoadImages
 //		Generates random int
 		int randomInt = rand.nextInt(amountOfFiles);
 		
-		String imageName = String.valueOf(Paths.get(fileURL.toURI()))+"s"+randomInt+".jpg";
+		String imageName = String.valueOf(Paths.get(fileURL.toURI()))+"\\s"+randomInt+".jpg";
 		
 		return new File(imageName);
 	}
