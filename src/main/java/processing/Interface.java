@@ -55,12 +55,20 @@ public class Interface extends Application{
 
         StackPane root = new StackPane();
 
-        Button btn = new Button("Browse Images");
+        Button btn = new Button("Select Random Image");
         btn.setOnAction(e -> selectRandomImage());
 
-        btn.setTranslateX(10);
-        btn.setTranslateY(10);
+        btn.setTranslateX(0);
+        btn.setTranslateY(0);
         root.getChildren().add(btn);
+
+
+        Button btn2 = new Button("Browse Images");
+        btn2.setOnAction(e -> browseImages());
+
+        btn.setTranslateX(150);
+        btn.setTranslateY(0);
+        root.getChildren().add(btn2);
         mainScene = new Scene(root,700,700);
 
         primaryStage.setScene(mainScene);
