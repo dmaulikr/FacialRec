@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
+            prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="gui.trackFaceController">
+    <top>
+        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <HBox prefHeight="100.0" prefWidth="200.0">
+                <CheckBox fx:id="haarClassifier" mnemonicParsing="false" text="Haar Classifier"
+                          onAction="#haarClassifier"/>
+                <CheckBox fx:id="lbpClassifier" mnemonicParsing="false" text="LBP Classifier"
+                          onAction="#lbpClassifier"/>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="100.0">
+                <Button mnemonicParsing="false" text="Browse Images" fx:id="browseImages"  onAction="#searchImage"/>
+                <Button mnemonicParsing="false" text="Random Images" fx:id="randomImages"  onAction="#randomImage"/>
+            </HBox>
+            <Separator/>
+        </VBox>
+    </top>
+    <center>
+        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <ImageView fx:id="originalFrame" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true"
+                       preserveRatio="true"/>
+        </VBox>
+    </center>
+    <bottom>
+        <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <Button mnemonicParsing="false" text="Start webcam" fx:id="cameraButton" alignment="center"
+                    onAction="#startCamera"/>
+        </HBox>
+    </bottom>
+</BorderPane>
