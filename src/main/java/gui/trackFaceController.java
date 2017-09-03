@@ -10,6 +10,8 @@ import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.input.KeyEvent;
+import javafx.scene.layout.VBox;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
@@ -25,10 +27,13 @@ import static processing.loadImages.imageLoader;
  */
 public class trackFaceController extends Application
 {
+	@FXML
+	public VBox imageContainer;
+	private Stage primaryStage;
+	private static String[] arguments;
 	
 	@FXML
 	public Button randomImages;
-	private Stage primaryStage;
 	//	The below classes are from trackFace.fxml file. Just placeholders
 	@FXML
 	public Button cameraButton;
@@ -45,7 +50,23 @@ public class trackFaceController extends Application
 	@FXML
 	protected void startCamera(ActionEvent event)
 	{
-		System.out.println("Button was clicked");
+		System.out.println("Camera Intialized");
+		webcamSettings();
+	}
+	
+	private void webcamSettings()
+	{
+		try
+		{
+			FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("../fxml/webcam.fxml"));
+			Parent newRoot = (Parent) fxmlLoader.load();
+			Stage stage = new Stage();
+			stage.setScene(new Scene(newRoot));
+			stage.show();
+		} catch( Exception e )
+		{
+			e.printStackTrace();
+		}
 	}
 	
 	@FXML
@@ -74,7 +95,15 @@ public class trackFaceController extends Application
 		File image = fileChooser.showOpenDialog(primaryStage);
 		
 		Image img = new Image("file:"+image.toString());
+		setImage(img);
+		
+	}
+	
+	private void setImage(Image img)
+	{
 		originalFrame.setImage(img);
+		originalFrame.fitWidthProperty().bind(imageContainer.widthProperty());
+		originalFrame.fitHeightProperty().bind(imageContainer.heightProperty());
 	}
 	
 	@FXML
@@ -82,9 +111,9 @@ public class trackFaceController extends Application
 	{
 		try
 		{
-			Image image  = new Image("file:"+imageLoader().toString());
-			originalFrame.setImage(image);
-		} catch( URISyntaxException | IOException e )
+			Image image = new Image("file:"+imageLoader().toString());
+			setImage(image);
+		} catch( URISyntaxException|IOException e )
 		{
 			e.printStackTrace();
 		}
@@ -97,7 +126,7 @@ public class trackFaceController extends Application
 		this.primaryStage = primaryStage;
 		Parent root = FXMLLoader.load(getClass().getResource("../fxml/trackFace.fxml"));
 		
-		Scene scene = new Scene(root, 400, 600);
+		Scene scene = new Scene(root, 600, 600);
 		
 		primaryStage.setTitle("Candy A.I.");
 		primaryStage.setScene(scene);
@@ -110,7 +139,17 @@ public class trackFaceController extends Application
 	//	Just a class designed to be accessed from the outside in order to initiate this gui.
 	public static void launchGUI(String[] args)
 	{
+		arguments = args;
 		launch(args);
 	}
 	
+	@FXML
+	protected void handleKeyInput(KeyEvent keyEvent)
+	{
+	}
+	
+	@FXML
+	protected void handleAboutAction(ActionEvent actionEvent)
+	{
+	}
 }

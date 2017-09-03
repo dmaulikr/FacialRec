@@ -1,36 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.*?>
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
-            prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="gui.trackFaceController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.trackFaceController">
     <top>
         <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
-            <HBox prefHeight="100.0" prefWidth="200.0">
-                <CheckBox fx:id="haarClassifier" mnemonicParsing="false" text="Haar Classifier"
-                          onAction="#haarClassifier"/>
-                <CheckBox fx:id="lbpClassifier" mnemonicParsing="false" text="LBP Classifier"
-                          onAction="#lbpClassifier"/>
+            <MenuBar fx:id="menuBar" onKeyPressed="#handleKeyInput">
+                <menus>
+                    <Menu text="File">
+                        <items>
+                            <MenuItem text="New"/>
+                            <MenuItem text="Open"/>
+                            <MenuItem text="Save"/>
+                            <MenuItem text="Save As"/>
+                            <SeparatorMenuItem  />
+                            <MenuItem text="Exit"/>
+                        </items>
+                    </Menu>
+                    <Menu text="Edit">
+                        <items>
+                            <MenuItem text="Copy"/>
+                            <MenuItem text="Cut"/>
+                            <MenuItem text="Paste"/>
+                        </items>
+                    </Menu>
+                    <Menu text="Help">
+                        <items>
+                            <MenuItem text="Search" disable="true"/>
+                            <MenuItem text="Online Manual" visible="false"/>
+                            <SeparatorMenuItem />
+                            <MenuItem text="About" onAction="#handleAboutAction"/>
+                        </items>
+                    </Menu>
+                </menus>
+            </MenuBar>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                <CheckBox fx:id="haarClassifier" mnemonicParsing="false" onAction="#haarClassifier" text="Haar Classifier" />
+                <CheckBox fx:id="lbpClassifier" alignment="TOP_RIGHT" contentDisplay="RIGHT" mnemonicParsing="false" onAction="#lbpClassifier" text="LBP Classifier" textAlignment="RIGHT" />
+            <VBox.margin>
+               <Insets />
+            </VBox.margin>
             </HBox>
-            <HBox prefHeight="100.0" prefWidth="100.0">
-                <Button mnemonicParsing="false" text="Browse Images" fx:id="browseImages"  onAction="#searchImage"/>
-                <Button mnemonicParsing="false" text="Random Images" fx:id="randomImages"  onAction="#randomImage"/>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="100.0" spacing="50.0" VBox.vgrow="SOMETIMES">
+                <Button fx:id="browseImages" mnemonicParsing="false" onAction="#searchImage" text="Browse Images" />
+                <Button fx:id="randomImages" mnemonicParsing="false" onAction="#randomImage" text="Random Images" />
             </HBox>
-            <Separator/>
+            <Separator />
         </VBox>
     </top>
     <center>
-        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
-            <ImageView fx:id="originalFrame" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true"
-                       preserveRatio="true"/>
+        <VBox fx:id="imageContainer" alignment="CENTER" prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <ImageView fx:id="originalFrame" fitHeight="100.0" pickOnBounds="true" preserveRatio="true">
+            <VBox.margin>
+               <Insets bottom="1.0" left="1.0" right="1.0" top="1.0" />
+            </VBox.margin></ImageView>
         </VBox>
     </center>
     <bottom>
-        <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
-            <Button mnemonicParsing="false" text="Start webcam" fx:id="cameraButton" alignment="center"
-                    onAction="#startCamera"/>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <Button fx:id="cameraButton" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#startCamera" text="Start webcam" />
         </HBox>
     </bottom>
 </BorderPane>
