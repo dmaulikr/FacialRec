@@ -14,17 +14,20 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/opencv/build/java/opencv-330.jar!/" />
+          <root url="jar://W:/opencv/opencv/build/java/opencv-320.jar!/" />
         </CLASSES>
         <JAVADOC />
         <NATIVE>
-          <root url="file://$MODULE_DIR$/libs/opencv/build/java/x64" />
+          <root url="file://W:/opencv/opencv/build/java/x64" />
         </NATIVE>
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/libs/opencv/build/java/opencv-330.jar!/" />
+          <root url="jar://W:/opencv/opencv/build/java/opencv-320.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Maven: com.github.sarxos:webcam-capture:0.3.11" level="project" />
+    <orderEntry type="library" name="Maven: com.nativelibs4java:bridj:0.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.2" level="project" />
   </component>
 </module>

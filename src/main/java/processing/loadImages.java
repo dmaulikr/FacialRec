@@ -15,9 +15,9 @@ import java.util.Random;
  * Date: 22-Aug-17
  * Time : 9:54 PM
  * Project Name: CandyAI
- * Class Name: LoadImages
+ * Class Name: loadImages
  */
-public class LoadImages
+public class loadImages
 {
 	
 	/**
@@ -52,14 +52,15 @@ public class LoadImages
 		ClassLoader classloader = Thread.currentThread().getContextClassLoader();
 		URL fileURL = classloader.getResource("image/");
 		File file = Paths.get(fileURL.toURI()).toFile();
-		System.out.println(file.getPath());
+		
 //		Creates a random generator to randomly select a file
 		Random rand = new Random();
+		
 //		Counts amounts of file in directories (In my case its 1054)
 		int amountOfFiles = (int) Files.list(Paths.get(file.getPath())).count();
+		
 //		Generates random int
 		int randomInt = rand.nextInt(amountOfFiles);
-		
 		String imageName = String.valueOf(Paths.get(fileURL.toURI()))+"\\s"+randomInt+".jpg";
 		
 		return new File(imageName);
