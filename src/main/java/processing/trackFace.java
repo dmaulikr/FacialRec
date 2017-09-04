@@ -9,9 +9,9 @@ import static gui.trackFaceController.launchGUI;
  * Date: 21-Aug-17
  * Time : 12:58 AM
  * Project Name: CandyAI
- * Class Name: faceRec
+ * Class Name: trackFace
  */
-public class faceRec
+public class trackFace
 {
 	
 	public static void main(String[] args)

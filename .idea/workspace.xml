@@ -3,9 +3,50 @@
   <component name="ChangeListManager">
     <list default="true" id="9be63ada-2648-4890-8668-063a2d1fbcc3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CandyAI/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/CandyAI.iml" afterPath="$PROJECT_DIR$/../CandyAI/CandyAI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/README.md" afterPath="$PROJECT_DIR$/../CandyAI/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/constant-values.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/deprecated-list.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/ImageLimitationError.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/ImageLimitationError.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/class-use/ImageLimitationError.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/class-use/ImageLimitationError.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-frame.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-summary.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-tree.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-use.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/exceptions/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/help-doc.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-1.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-10.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-11.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-2.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-3.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-4.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-5.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-6.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-7.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-8.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-9.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index-files/index-9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/index.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/overview-frame.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/overview-summary.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/overview-tree.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/package-list" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/package-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/FaceRec.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/FaceRec.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/LoadImages.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/LoadImages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/FaceRec.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/FaceRec.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/LoadImages.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/LoadImages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/fixDatabaseImages.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/class-use/fixDatabaseImages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/fixDatabaseImages.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/fixDatabaseImages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-frame.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-summary.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-tree.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-use.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/processing/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/javadoc/serialized-form.html" afterPath="$PROJECT_DIR$/../CandyAI/javadoc/serialized-form.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java" afterPath="$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml" afterPath="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/webcam.fxml" afterPath="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/webcam.fxml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamPreviewController.java" afterPath="$PROJECT_DIR$/../CandyAI/src/main/java/gui/webCamPreviewController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../CandyAI/src/main/java/processing/faceRec.java" afterPath="$PROJECT_DIR$/../CandyAI/src/main/java/processing/trackFace.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../CandyAI/out/" />
     <ignored path="$PROJECT_DIR$/../CandyAI/target/" />
@@ -26,47 +67,12 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trackFace.fxml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trackFaceController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="151" column="13" lean-forward="false" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +82,7 @@
       <find>open</find>
       <find>Sys</find>
       <find>webca</find>
+      <find>mne</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,7 +101,6 @@
         <option value="$PROJECT_DIR$/../CandyAI/CandyAI.iml" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/processing/LoadImage.java" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/processing/fixDatabaseImages.java" />
-        <option value="$PROJECT_DIR$/../CandyAI/README.md" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/ImageViewer.fxml" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/ImageViewer.java" />
         <option value="$PROJECT_DIR$/../CandyAI/src/test/java/ImageLoader.java" />
@@ -112,8 +118,13 @@
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamAppLauncher.java" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/webcam.fxml" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamPreviewController.java" />
-        <option value="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml" />
+        <option value="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/popup.fxml" />
+        <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/bus.java" />
         <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java" />
+        <option value="$PROJECT_DIR$/../CandyAI/src/main/java/gui/popup.java" />
+        <option value="$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml" />
+        <option value="$PROJECT_DIR$/../CandyAI/bugs.txt" />
+        <option value="$PROJECT_DIR$/../CandyAI/README.md" />
       </list>
     </option>
   </component>
@@ -131,8 +142,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1622" />
-    <option name="y" value="-15" />
+    <option name="x" value="1654" />
+    <option name="y" value="-18" />
     <option name="width" value="1180" />
     <option name="height" value="669" />
   </component>
@@ -176,8 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ColorIdeProjectViewPane">
         <subPane>
           <expand>
@@ -238,11 +248,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -250,8 +261,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://W:/CandyAI/src/main/resources/fxml/trackFace.fxml&#10;loim\&#9;FILE&#9;file://W:/CandyAI/src/main/java/processing/loadImages.java&#10;user&#9;FILE&#9;file://W:/CandyAI/src/main/java/gui/userInterface.java&#10;trac&#9;FILE&#9;file://W:/CandyAI/src/main/resources/fxml/trackFace.fxml&#10;interf&#9;FILE&#9;file://W:/CandyAI/src/main/java/gui/userInterface.java&#10;face&#9;FILE&#9;file://W:/CandyAI/src/main/resources/fxml/faceTracker.fxml&#10;.git&#9;FILE&#9;file://W:/CandyAI/.gitignore&#10;javadoc&#9;ACTION&#9;GenerateJavadoc&#10;read&#9;FILE&#9;file://W:/CandyAI/README.md" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;file://W:/CandyAI/README.md&#10;face&#9;FILE&#9;file://W:/CandyAI/src/main/resources/fxml/trackFace.fxml&#10;pop&#9;FILE&#9;file://W:/CandyAI/src/main/java/gui/popup.java&#10;loim\&#9;FILE&#9;file://W:/CandyAI/src/main/java/processing/loadImages.java&#10;user&#9;FILE&#9;file://W:/CandyAI/src/main/java/gui/userInterface.java&#10;trac&#9;FILE&#9;file://W:/CandyAI/src/main/resources/fxml/trackFace.fxml&#10;interf&#9;FILE&#9;file://W:/CandyAI/src/main/java/gui/userInterface.java&#10;.git&#9;FILE&#9;file://W:/CandyAI/.gitignore&#10;javadoc&#9;ACTION&#9;GenerateJavadoc" />
     <property name="add_unversioned_files" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -279,25 +291,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="gui.WebCamAppLauncher" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CandyAI" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CandyAI" />
-      <envs />
-    </configuration>
-    <configuration name="WebCamPreviewController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="gui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.WebCamPreviewController" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CandyAI" />
@@ -698,14 +691,33 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="faceRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="popup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="gui.popup" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CandyAI" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CandyAI" />
+      <envs />
+    </configuration>
+    <configuration name="trackFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="processing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="processing.faceRec" />
+      <option name="MAIN_CLASS_NAME" value="processing.trackFace" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CandyAI" />
@@ -736,14 +748,14 @@
       <module name="CandyAI" />
       <envs />
     </configuration>
-    <configuration name="userInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="webCamPreviewController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.userInterface" />
+      <option name="MAIN_CLASS_NAME" value="gui.webCamPreviewController" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CandyAI" />
@@ -756,19 +768,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.userInterface" />
-      <item index="1" class="java.lang.String" itemvalue="Application.trackFaceController" />
-      <item index="2" class="java.lang.String" itemvalue="Application.faceRec" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WebCamAppLauncher" />
-      <item index="4" class="java.lang.String" itemvalue="Application.WebCamPreviewController" />
+      <item index="0" class="java.lang.String" itemvalue="Application.trackFaceController" />
+      <item index="1" class="java.lang.String" itemvalue="Application.trackFace" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WebCamAppLauncher" />
+      <item index="3" class="java.lang.String" itemvalue="Application.webCamPreviewController" />
+      <item index="4" class="java.lang.String" itemvalue="Application.popup" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.trackFaceController" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WebCamPreviewController" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WebCamAppLauncher" />
-        <item index="3" class="java.lang.String" itemvalue="Application.faceRec" />
-        <item index="4" class="java.lang.String" itemvalue="Application.userInterface" />
+        <item index="1" class="java.lang.String" itemvalue="Application.popup" />
+        <item index="2" class="java.lang.String" itemvalue="Application.webCamPreviewController" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WebCamAppLauncher" />
+        <item index="4" class="java.lang.String" itemvalue="Application.trackFace" />
       </list>
     </recent_temporary>
   </component>
@@ -796,16 +808,18 @@
       <workItem from="1504312345941" duration="593000" />
       <workItem from="1504406256406" duration="258000" />
       <workItem from="1504407528744" duration="25000" />
-      <workItem from="1504407600154" duration="13685000" />
+      <workItem from="1504407600154" duration="13831000" />
+      <workItem from="1504458971742" duration="5200000" />
+      <workItem from="1504489046628" duration="3433000" />
+      <workItem from="1504494310410" duration="2658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43029000" />
+    <option name="totallyTimeSpent" value="54466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -816,11 +830,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34192038" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3501171" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -846,7 +860,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -854,41 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/fixDatabaseImages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/CandyAI.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -902,7 +883,10 @@
         <state relative-caret-position="486">
           <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
           <folding>
-            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="true" />
+            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -919,7 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -928,7 +911,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
             <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -938,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +936,10 @@
         <state relative-caret-position="936">
           <caret line="83" column="11" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="11" />
           <folding>
-            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="true" />
+            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -972,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +964,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
             <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -991,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,7 +989,10 @@
         <state relative-caret-position="1494">
           <caret line="83" column="11" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="11" />
           <folding>
-            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="true" />
+            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1026,7 +1010,10 @@
         <state relative-caret-position="1260">
           <caret line="70" column="11" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
           <folding>
-            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="true" />
+            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1035,7 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,7 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,13 +1045,12 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="10" column="173" lean-forward="false" selection-start-line="10" selection-start-column="173" selection-end-line="10" selection-end-column="173" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/faceRec.java">
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/trackFace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1131,18 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1150,19 +1122,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/fixDatabaseImages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/faceRec.java">
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/trackFace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -1178,86 +1141,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/HelloOpenCV.java">
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/HelloOpenCV.java" />
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamAppLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamAppLauncher.java">
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/webCamPreviewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/loadImages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="true" />
-            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="true" />
-            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/WebCamPreviewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3366">
-          <caret line="254" column="4" lean-forward="false" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2126#2133#0" expanded="true" />
-            <element signature="e#6026#6027#0" expanded="true" />
-            <element signature="e#6045#6046#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1818">
+          <caret line="259" column="36" lean-forward="false" selection-start-line="259" selection-start-column="36" selection-end-line="259" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/webcam.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/popup.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="35" column="51" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="27" column="112" lean-forward="true" selection-start-line="27" selection-start-column="112" selection-end-line="27" selection-end-column="112" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/loadImages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="47" lean-forward="true" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="docComment;field#imageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#getImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#setImageResourceDirectory#0;class#loadImages#0" expanded="false" />
+            <element signature="docComment;method#imageLoader#0;class#loadImages#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/processing/fixDatabaseImages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/bus.java" />
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/popup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#popup#0" expanded="true" />
+            <element signature="docComment;method#cancel#0;class#popup#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CandyAI/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/java/gui/trackFaceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="151" column="13" lean-forward="false" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+        <state relative-caret-position="188">
+          <caret line="244" column="7" lean-forward="true" selection-start-line="244" selection-start-column="7" selection-end-line="244" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#imageURL#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#imageContainer#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#randomImages#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#cameraButton#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#originalFrame#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#lbpClassifier#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#haarClassifier#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;field#browseImages#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#startCamera#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#haarClassifier#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#lbpClassifier#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#searchImage#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#randomImage#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#handleKeyInput#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#handleAboutAction#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#launchNewSession#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#exit#0;class#trackFaceController#0" expanded="true" />
+            <element signature="e#4522#4523#0" expanded="true" />
+            <element signature="e#4544#4545#0" expanded="true" />
+            <element signature="docComment;method#insertFromUrl#0;class#trackFaceController#0" expanded="true" />
+            <element signature="e#5483#5484#0" expanded="true" />
+            <element signature="e#5518#5519#0" expanded="true" />
+            <element signature="docComment;method#start#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#launchGUI#0;class#trackFaceController#0" expanded="true" />
+            <element signature="e#6181#6182#0" expanded="true" />
+            <element signature="e#6200#6201#0" expanded="true" />
+            <element signature="docComment;method#webcamSettings#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#setImage#0;class#trackFaceController#0" expanded="true" />
+            <element signature="docComment;method#getStringName#0;class#trackFaceController#0" expanded="true" />
+            <element signature="e#7075#7076#0" expanded="true" />
+            <element signature="e#7099#7100#0" expanded="true" />
+            <element signature="docComment;method#setStringName#0;class#trackFaceController#0" expanded="true" />
+            <element signature="e#7238#7239#0" expanded="true" />
+            <element signature="e#7288#7289#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../CandyAI/bugs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CandyAI/src/main/resources/fxml/trackFace.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        <state relative-caret-position="72">
+          <caret line="2" column="107" lean-forward="false" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
           <folding />
         </state>
       </provider>

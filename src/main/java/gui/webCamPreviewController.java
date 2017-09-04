@@ -1,10 +1,5 @@
 package gui;
 
-/**
- * Class Details:- Author: Sarhad User: sarha Date: 03-Sep-17 Time : 2:31 AM Project Name: CandyAI Class Name:
- * WebCamPreviewController
- */
-
 import com.github.sarxos.webcam.Webcam;
 import javafx.application.Application;
 import javafx.application.Platform;
@@ -35,29 +30,57 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class WebCamPreviewController extends Application implements Initializable {
+/**
+ * The class that deals with launching webcam stream. The method was copied from the example available on sarxos website.
+ */
+
+public class webCamPreviewController extends Application implements Initializable {
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	Button btnStartCamera;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	Button btnStopCamera;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	Button btnDisposeCamera;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	ComboBox<WebCamInfo> cbCameraOptions;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	BorderPane bpWebCamPaneHolder;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	FlowPane fpBottomPane;
 	
+	/**
+	 * The method are field holders from the fxml file located in resources/fxml/webcam.
+	 */
 	@FXML
 	ImageView imgWebCamCapturedImage;
 	
+	/**
+	 * Anonymous class holding webcam information of every single listed webcam. The fields within are self explanatory.
+	 */
 	private class WebCamInfo {
 		
 		private String webCamName;
@@ -85,11 +108,19 @@ public class WebCamPreviewController extends Application implements Initializabl
 		}
 	}
 	
+	/**
+	 * Different global object holders.
+	 */
 	private BufferedImage grabbedImage;
 	private Webcam selWebCam = null;
 	private boolean stopCamera = false;
 	private ObjectProperty<Image> imageProperty = new SimpleObjectProperty<Image>();
 	
+	/**
+	 * The method to initialize the gui method.
+	 * @param arg0  URL
+	 * @param arg1  ResBundle
+	 */
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
 		
@@ -116,16 +147,13 @@ public class WebCamPreviewController extends Application implements Initializabl
 				}
 			}
 		});
-		Platform.runLater(new Runnable() {
-			
-			@Override
-			public void run() {
-				setImageViewSize();
-			}
-		});
+		Platform.runLater(this::setImageViewSize);
 		
 	}
 	
+	/**
+	 * Method to set webcam stream to respective sizes.
+	 */
 	private void setImageViewSize() {
 		
 		double height = bpWebCamPaneHolder.getHeight();
@@ -138,6 +166,10 @@ public class WebCamPreviewController extends Application implements Initializabl
 		
 	}
 	
+	/**
+	 * The method to initialize webcam.
+	 * @param webCamIndex   Choice of preffered webcam.
+	 */
 	private void initializeWebCam(final int webCamIndex) {
 		
 		Task<Void> webCamIntilizer = new Task<Void>() {
@@ -164,6 +196,9 @@ public class WebCamPreviewController extends Application implements Initializabl
 		btnStartCamera.setDisable(true);
 	}
 	
+	/**
+	 * Webcam stream starter.
+	 */
 	private void startWebCamStream() {
 		
 		stopCamera = false;
@@ -176,14 +211,10 @@ public class WebCamPreviewController extends Application implements Initializabl
 					try {
 						if ((grabbedImage = selWebCam.getImage()) != null) {
 							
-							Platform.runLater(new Runnable() {
-								
-								@Override
-								public void run() {
-									final Image mainiamge = SwingFXUtils
-											.toFXImage(grabbedImage, null);
-									imageProperty.set(mainiamge);
-								}
+							Platform.runLater(() -> {
+								final Image mainiamge = SwingFXUtils
+										.toFXImage(grabbedImage, null);
+								imageProperty.set(mainiamge);
 							});
 							
 							grabbedImage.flush();
@@ -205,18 +236,29 @@ public class WebCamPreviewController extends Application implements Initializabl
 		
 	}
 	
+	/**
+	 * Close stream.
+	 */
 	private void closeCamera() {
 		if (selWebCam != null) {
 			selWebCam.close();
 		}
 	}
 	
+	/**
+	 * Stop camera
+	 * @param event Action event
+	 */
 	public void stopCamera(ActionEvent event) {
 		stopCamera = true;
 		btnStartCamera.setDisable(false);
 		btnStopCamera.setDisable(true);
 	}
 	
+	/**
+	 * Starter
+	 * @param   event   Action Event
+	 */
 	public void startCamera(ActionEvent event) {
 		stopCamera = false;
 		startWebCamStream();
@@ -224,6 +266,10 @@ public class WebCamPreviewController extends Application implements Initializabl
 		btnStopCamera.setDisable(false);
 	}
 	
+	/**
+	 * Disposer cam
+	 * @param event ActionEvent
+	 */
 	public void disposeCamera(ActionEvent event) {
 		stopCamera = true;
 		closeCamera();
@@ -231,6 +277,10 @@ public class WebCamPreviewController extends Application implements Initializabl
 		btnStartCamera.setDisable(true);
 	}
 	
+	/**
+	 * the start method.
+	 * @param primaryStage
+	 */
 	@Override
 	public void start(Stage primaryStage)
 	{
@@ -252,7 +302,10 @@ public class WebCamPreviewController extends Application implements Initializabl
 		primaryStage.show();
 	}
 	
-	
+	/**
+	 * To launch from within the app. Allowing direct entry to webcam access.
+	 * @param args
+	 */
 	public static void main(String[] args)
 	{
 		launch(args);

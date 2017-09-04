@@ -8,7 +8,7 @@
 
 The application is being developed by Sarhad Salam and Alex Bogdan. Presently we are using Java version "1.8.0_101" and opencv 3.10.
 
-Note: You do not need the .idea folder or CandyAI.iml as that is just IntellijIDE generated folder for developer support (as both os us use intellij, global settings help).g
+Note: You do not need the .idea folder or CandyAI.iml as that is just IntellijIDE generated folder for developer support (as both of us use intellij, global settings help).
 
 ## Image Database
 There are lots of image databases out there, you can use your own dataset. Or download the same one we are using. 
@@ -38,14 +38,22 @@ When compiling, we will try to use relative paths but sometimes if its more conv
 ***I recommend using less than 1000 files, more than that and things become slow (in my computer atleast).***
 
 ### Step 2 (Still in progress)
-1. Coming soon.
+1. The User interface is running it has a few bugs, but works as it should. It has several features supported right now. To run the GUI, run the main method available in trackFace class un processing in the java folder.
+2. We are still working on cascades for facial recorgnition, coming soon. 
 
+##Bugs
+For bugs check [bugs.txt](bugs.txt)
 
-
+##ChangeLog
+Not available yet.
 
 ### For more details check the javadoc by cloning this repo.
 ## Contact Us
 If you for some reason, want to update, fix, or improve anything or for any other reason. You can mention us on GitHub, and one of us will soon get to you.
+
+## Plugins and Libraries used:
+1. [Sarxos & Examples](https://github.com/sarxos/webcam-capture/) (for webcam stream)
+2. [openCV (Image Processing)](http://opencv.org/)
 
 ## Disclaimer Notice
 This project comes with no guarantee, and is still in early stages.

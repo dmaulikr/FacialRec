@@ -1,0 +1,3 @@
+1. In the GUI, when we load images everything works fine but if we click on the top menu bar after loading an image. The image just keeps on growing. Why? I have no idea. Guess: The problem lies somewhere in trackFace.fxml probably the vgrowth? or hgrowth?. Status: NOT FIXED
+2. In the gui, after starting a webcam stream, and closing it the main screen just freezes. Why? Code is not handled properly during lauching, just use a similar technique used while launching the popup.
+3. In GUI, have to double click on haar classifier to unmark a selected lbp classifier. Why? Truly no idea.
